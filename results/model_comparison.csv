@@ -1,0 +1,6 @@
+Model,MAE (days),RMSE (days),R2 Score
+Dummy Regressor,51.297,,
+Linear Regression,22.629,,
+Neural Network,6.669,11.005,0.968864
+ONNX FP32,6.669,11.005,0.968864
+ONNX INT8,6.716,10.995,0.968919

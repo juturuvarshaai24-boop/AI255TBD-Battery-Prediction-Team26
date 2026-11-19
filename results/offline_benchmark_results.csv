@@ -1,0 +1,7 @@
+Metric,Value
+Number of test samples,1000.0
+Average latency (ms),0.02999
+Median latency (ms),0.02732
+P95 latency (ms),0.04102
+Throughput (predictions/sec),33342.23
+Mean absolute prediction difference (days),4e-06

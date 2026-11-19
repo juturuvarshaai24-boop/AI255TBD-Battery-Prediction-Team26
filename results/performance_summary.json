@@ -1,0 +1,12 @@
+{
+    "project": "Smart Doorbell Battery-Life Prediction",
+    "model": "ONNX FP32",
+    "runtime": "ONNX Runtime",
+    "execution_provider": "CPUExecutionProvider",
+    "external_prediction_api": false,
+    "test_samples": 1000,
+    "average_latency_ms": 0.02999,
+    "throughput_predictions_per_second": 33342.23,
+    "model_size_kb": 4.0,
+    "mean_prediction_difference_days": 4e-06
+}
